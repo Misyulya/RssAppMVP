@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RSSNewsApplication</string>
+    <string name="rss_button">rss</string>
+    <string name="backup_button">backup</string>
+    <string name="restore_button">restore</string>
+    <string name="exit_button">exit</string>
+    <string name="dialog_button">Ok</string>
+</resources>
